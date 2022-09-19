@@ -1,0 +1,54 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.left {
+    
+    position: absolute;
+    width: 208px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+    background: #4f3ebf;
+}
+.box-kecil {
+    position: absolute;
+    width: 92px;
+    height: 12px;
+    left: 0px;
+    top: 0px;
+    bottom: 20px;
+}
+.perpustakaan{
+    position: absolute;
+width: 136px;
+height: 24px;
+left: 282px;
+top: 34px;
+}
+img {
+    height: 45px;
+    width: 45px;     
+    padding-left: 10px;  
+    padding-top: 20px;
+
+}
+h2{
+    float: right;
+    padding-top: 30px;
+    padding-right: 20px;
+}
+.box-kecil{
+    
+    position: absolute;
+    width: 208px;
+    height: 92px;
+    left: 0px;
+    top: 0px;
+
+    background: #21EF1D;
+}
+
+
